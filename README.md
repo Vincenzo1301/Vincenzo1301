@@ -53,3 +53,5 @@
 </div>
 
 ###
+
+Or checkout my blog: https://luck-lily-2d3.notion.site/Blog-16214f196e6080a3ac9ecf93f37141ae
