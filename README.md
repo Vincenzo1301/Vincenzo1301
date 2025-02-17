@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2018<br>📚 Currently learning: Advanced backend development, cloud services, and AI/ML integration.<br>🎯 Goals: Just want to improve my skills, learn new things, and be a valuable part of a team that ships software.</p>
+<p align="left">✨ Coding since 2018<br>📚 Currently learning: Backend development, cloud services, and distributed systems.<br>🎯 Goals: Just want to improve my skills, learn new things, and be a valuable part of a team that ships software.</p>
 
 ###
 
