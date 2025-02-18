@@ -42,12 +42,4 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vincenzo-auricchio-360245193/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 Or checkout my blog: https://luck-lily-2d3.notion.site/Blog-16214f196e6080a3ac9ecf93f37141ae
