@@ -31,15 +31,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
-
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<p align="left">📪 Feel free to get in touch with me anytime.</p>
-
-###
-
-Or checkout my blog: https://luck-lily-2d3.notion.site/Blog-16214f196e6080a3ac9ecf93f37141ae
